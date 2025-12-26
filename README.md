@@ -19,7 +19,7 @@
 ## 安装方法
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展。
-2. 打开仓库中的脚本文件（例如：https://raw.githubusercontent.com/JoryPein/tampermonkey-scripts/main/translate_cn_hn.js）。
+2. 打开仓库中的脚本文件（例如：https://raw.githubusercontent.com/JoryPein/tampermonkey-scripts/refs/heads/main/translate_cn_hn.js）。
 3. 点击“安装”按钮，Tampermonkey 会自动弹出安装窗口。
    - 或者复制脚本内容，新建脚本并粘贴。
 
